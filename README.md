@@ -1,4 +1,4 @@
-# Java-Adder
+# Java-Adder (How to use)
 To run the jar file, here's what you have to do
 
 Move the Java Adder.jar file to a folder.
